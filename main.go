@@ -89,3 +89,6 @@ func getPublicIP() (string, error) {
 	}
 	return string(ip), nil
 }
+
+
+// TEST CALL
